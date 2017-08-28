@@ -1,8 +1,8 @@
 import telebot
 import requests
 
-tokenbot = "406696396:AAFDf1SIqBuRZodIXwYN1iNEUFYnfRIacvs"
-token = "7fd81a935ced84e8a86eb239f7a9657733d050b1db9a1ba840a3ee9d82b92f811cff2647ad5efcc157f40"
+tokenbot = ""
+token = ""
 url = "https://api.vk.com/method/{method}?{params}&access_token={token}&v={version}"
 method = "docs.search"
 v = 5.68
